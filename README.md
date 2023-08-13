@@ -1,7 +1,9 @@
 <h1 align="center" id="title">Controlling an electric vehicle model with mechanical wheels</h1>
 <p align="center"><a href="https://imgur.com/25ovs42"><img src="https://i.imgur.com/25ovs42m.png" title="source: imgur.com" /></a><a href="https://imgur.com/CSt8fqd"><img src="https://i.imgur.com/CSt8fqdm.png" title="source: imgur.com" /></a></p>
 <p align="center"><IMG SRC="https://im4.ezgif.com/tmp/ezgif-4-b878d2e3b8.gif"></p>
-![](https://im4.ezgif.com/tmp/ezgif-4-b878d2e3b8.gif)
+
+<p align="center">![ezgif-4-59eba43863](https://github.com/mizticer/Control-of-an-electric-vehicle-model-with-mecanum-wheels/assets/68850404/eee3d9a0-5391-4be5-8bad-bbb5acde2c69)</p>
+
 <h2>💻 The concept:</h2>
 The idea behind this project was to build and program an electric vehicle model. The user, using a mobile application, has the ability to remotely control the the vehicle. One of the functions will be free driving. It will vary depending on the type of wheels installed in the vehicle. Multidirectional wheels will be used, which base their design on rollers. They will increase the vehicle's range of motion. The Raspberry computer Pi 4 allows fully advanced control of the vehicle and the attachment of external components such as a camera. The computer is equipped with a Bluetooth module. It allows It provides wireless connectivity with a phone. The user of the mobile application can to select the function performed by the vehicle. The main program performs certain controls depending on the user's choice in the mobile application. One of the vehicle's functions is to move along a random route. The mobile application user can choose the color of the route along which the vehicle will move. For this purpose, the vehicle is equipped with a camera. The program analyzes the image from the camera and steers the vehicle accordingly.
 
