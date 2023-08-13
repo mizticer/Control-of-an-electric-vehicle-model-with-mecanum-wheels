@@ -1,6 +1,5 @@
 <h1 align="center" id="title">Controlling an electric vehicle model with mechanical wheels</h1>
-<p align="center"><a href="https://imgur.com/25ovs42"><img src="https://i.imgur.com/25ovs42m.png" title="source: imgur.com" /></a><a href="https://imgur.com/CSt8fqd"><img src="https://i.imgur.com/CSt8fqdm.png" title="source: imgur.com" /></a></p>
-<p align="center"><IMG SRC="https://im4.ezgif.com/tmp/ezgif-4-b878d2e3b8.gif"></p>
+<p align="center"><a href="https://imgur.com/70rNCbi"><img src="https://i.imgur.com/70rNCbim.png" title="source: imgur.com" /></a><a href="https://imgur.com/52Fler7"><img src="https://i.imgur.com/52Fler7m.png" title="source: imgur.com" /></a></p>
 
 ![ezgif-4-59eba43863](https://github.com/mizticer/Control-of-an-electric-vehicle-model-with-mecanum-wheels/assets/68850404/eee3d9a0-5391-4be5-8bad-bbb5acde2c69)
 
